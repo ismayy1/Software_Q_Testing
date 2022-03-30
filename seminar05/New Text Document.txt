@@ -1,0 +1,9 @@
+singleton - behavioral design pattern
+3 things we need to have in order to implement singleton =>
+ - private constructon
+ - method
+ - instance (Database)
+
+LAZY initalization - we create an object later when we need it.
+
+Builder - Creational design pattern
