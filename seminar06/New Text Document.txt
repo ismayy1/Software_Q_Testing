@@ -1,0 +1,10 @@
+recap -> Builder - is an object that's created by an object builder, and all of them has an obtional attribute
+
+Prototype(creational design patten) - is the way of cloning the object into another object, it's the way of cloning it in good way. 
+
+Factory(creational design patten) - we have - simple factory
+					    - abstract factory
+					    - method factory
+
+
+at the nidterm exam - we'll need to implement any design pattern
